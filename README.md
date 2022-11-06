@@ -9,3 +9,4 @@ There are no guarantees about how often this repo will be updated, given that I 
 # links
 
 - [Rust Playground](https://play.rust-lang.org/)
+- [Rust for DevOps Tooling](https://www.fpcomplete.com/blog/rust-for-devops-tooling/)
